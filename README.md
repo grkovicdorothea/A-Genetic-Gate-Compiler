@@ -1,1 +1,2 @@
 # A-Genetic-Gate-Compiler
+A genetic gate compiler is a tool that automatically translates a high-level programming language into DNA sequences that function as genetic logic gates within a cell. These genetic logic gates are biological circuits that perform a specific function, such as an AND gate which only activates a gene's expression when two specific inputs are present, similar to a computer's logic gate. The compiler simplifies the process of synthetic biology by abstracting away the complex details of DNA design and implementation. 
